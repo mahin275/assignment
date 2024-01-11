@@ -15,7 +15,7 @@
     margin-top: 30px;
     border-radius: 16px;
     border-radius: 16px;
-background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url(/resources/Banner\ Image.png);
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url(resources/Banner\ Image.png);
 
 
 /* background-image: linear-gradient(to left,
@@ -81,7 +81,7 @@ line-height: normal;
   background-repeat: no-repeat;
   
     
-    background:  linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url(/resources/Vectorrr.png);
+    background:  linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url(resources/Vectorrr.png);
  
 }
 .New-year img{
@@ -268,7 +268,7 @@ line-height: normal;
 }
 .style-rec {
     
-   background: url(/resources/Group\ 75.png), linear-gradient(90deg, #FFF 0.26%, #1D1D1B 100.35%);
+   background: url(resources/Group\ 75.png), linear-gradient(90deg, #FFF 0.26%, #1D1D1B 100.35%);
    background-image: cover;
 background-blend-mode: sc;
 mix-blend-mode: normal;
